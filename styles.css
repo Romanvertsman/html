@@ -165,4 +165,18 @@ License Terms
       transition: background-color 0.3s;
 	  font-family: Ink Free;
     }
+@font-face {
+        
+      
+             url('Brilliant-8M2oJ.ttf')  format('truetype'), /* Safari, Android, iOS */
+	     url('comixno2clm_medium-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('ComixNo2CLM-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('FREESCPT.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('Kalam-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('Inkfree.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('Kalam-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+	     url('mvboli.ttf')  format('truetype'), /* Safari, Android, iOS */
 
+
+             
+        }
