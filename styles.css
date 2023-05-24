@@ -166,6 +166,14 @@ License Terms
 	  font-family: Ink Free;
     }
 
+@font-face {
+        font-family: 'YourFontName';
+        src: url('YourFontName.eot'); /* IE9 Compat Modes */
+        src: url('YourFontName.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+             url('YourFontName.woff') format('woff'), /* Modern Browsers */
+             url('YourFontName.ttf')  format('truetype'), /* Safari, Android, iOS */
+             url('YourFontName.svg#svgFontName') format('svg'); /* Legacy iOS */
+        }
     .re:hover {
       background-color: #005580;
     }
